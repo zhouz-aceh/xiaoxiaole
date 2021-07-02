@@ -1,0 +1,8 @@
+{
+    "title": "Match-3",
+    "identifier": "com.yourcompany.wizardEVP.Match3",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
